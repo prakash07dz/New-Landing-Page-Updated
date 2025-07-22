@@ -347,7 +347,7 @@ nav {
 .hero-icon {
   position: absolute;
   width: 150px;
-  opacity: 0.8;
+  opacity: 0.5;
   transition: transform 0.2s ease;
   z-index: 1;
 }
